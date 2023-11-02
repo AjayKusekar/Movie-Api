@@ -22,7 +22,6 @@ You can check out a live demo of the Movie Search API at [Demo Link](#).
 ## Features
 - Search for movies by title.
 - View movie details including overview, release date, and rating.
-- Discover popular, top-rated, and upcoming movies.
 - Responsive and user-friendly interface.
 
 ## Getting Started
